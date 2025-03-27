@@ -21,3 +21,18 @@ $ cat /usr/bin/skills
   - SQL Injection (Sleep() is just a catnap)  
   - Phishing (for actual fish) 🎣  
   - 99.9% uptime (because I never sleep)  
+```  
+
+### **How to Help**  
+🐾 **Join the Paw Patrol**: Star this repo if you’ve ever felt judged by a cat.  
+🔎 **Report Sightings**: `echo "meow@claws.agency" | gpg --encrypt`  
+
+### **Quote to Live By**  
+> *"In a world of dogs, be a cat. Silent, mysterious, and always landing on your feet."*  
+
+![visitor counter](https://komarev.com/ghpvc/?username=Purr-ivacy&label=Paws+on+this+profile&color=ff69b4)  
+*(Wow, you actually read this far? Here’s a [free cat meme](https://tinyurl.com/cat-meme-tax).)*  
+
+
+
+
